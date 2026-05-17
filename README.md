@@ -1,91 +1,46 @@
-<h1 align="center">Hi 👋, I'm Murali Krishna</h1>
-<h3 align="center">🚀 Full Stack Developer | React Developer | Problem Solver</h3>
+# 🧠 Murali AI (Ethereal Sentient)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=21ironman&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-</p>
+A highly advanced, ultra-premium AI Voice Assistant built with React, Vite, and Google Gemini API. This project replaces standard chat interfaces with a living, breathing **Ethereal Liquid Aurora** UI and seamless native voice interactions.
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=21ironman&theme=algolia&margin-w=15&margin-h=15" alt="trophies"/>
-  </a>
-</p>
+🔗 **Live Demo:** [https://modern-portfolio-3zkg.vercel.app/](https://modern-portfolio-3zkg.vercel.app/)
 
----
+## ✨ Features
 
-## 🚀 About Me
+- **Sentient Orb Visualizer:** A complex, CSS-animated core that morphs, breathes, and reacts to the AI's current state (Idle, Listening, Processing, Speaking).
+- **Aura Wave Voice Interface:** A dedicated voice-interaction mode. When speaking, the screen transitions to a massive audio visualizer with cinematic live subtitles.
+- **Cinematic Text Flow:** Chat messages use a borderless, floating glassmorphism design with dynamic 3D depth-of-field blurring for older messages.
+- **Google Gemini Engine:** Powered by `gemini-1.5-flash` for blazing-fast, highly intelligent conversational responses.
+- **Web Speech API Integration:** Native browser-based Speech-to-Text and Text-to-Speech interactions for a truly hands-free experience.
 
-- 🔭 Currently working on **TastyKitchen**
-- 🌱 Learning **Advanced React, Node.js & System Design**
-- 💬 Ask me about **React, JavaScript, Node.js**
-- 📫 Reach me at: **pmkrishna1996@gmail.com**
-- 📄 Resume: [View Resume](https://docs.google.com/document/d/121tRWIqJek0-RwINKeBFhr2aBF4VwMYKhvgHvY4UsR8/edit?usp=sharing)
-- ⚡ Fun fact: I love building scalable and user-friendly web applications.
+## 🛠️ Technology Stack
 
----
+- **Frontend:** React (Vite), Vanilla CSS (Glassmorphism, Liquid Aurora Gradients)
+- **AI Backend:** Google Generative AI (Gemini)
+- **Voice Synthesis:** Web Speech API
+- **Icons:** Lucide React
+- **Hosting:** Vercel
 
-## 🌐 Connect With Me
+## 🚀 Running Locally
 
-<p align="left">
-<a href="https://github.com/21ironman" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
-</a>
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/21Ironman/MK-Voice-Frontend-model.git
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Create a `.env` file in the root directory and add your Gemini API Key:
+   ```env
+   VITE_GEMINI_API_KEY="your_api_key_here"
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-<a href="https://www.linkedin.com/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
-</a>
-</p>
+## 👨‍💻 Author
 
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,docker,git,bootstrap,babel,react" />
-
-</p>
-
----
-
-## 📌 Featured Project
-
-### 🍔 TastyKitchen
-A modern food ordering web application with responsive UI and seamless user experience.
-
-🔗 Live Demo:  
-https://MuraliKitchens.ccbp.tech
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=21ironman&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21ironman&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=21ironman&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-## 💻 Quote
-
-<p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
-</p>
+**Murali Krishna**
+- GitHub: [@21ironman](https://github.com/21ironman)
+- LinkedIn: [Murali Krishna](https://www.linkedin.com)

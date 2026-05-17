@@ -59,7 +59,7 @@ An ultra-premium AI Voice Assistant featuring a cinematic liquid aurora interfac
 ### Main Demo
 https://modern-portfolio-3zkg.vercel.app/
 
-### Experimental Version
+### 🎨 Personal Portfolio
 https://modern-portfolio-gamma-green.vercel.app/
 
 ---

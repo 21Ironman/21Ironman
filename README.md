@@ -1,46 +1,111 @@
+<h1 align="center">Hi 👋, I'm Murali Krishna</h1>
+
+<h3 align="center">
+Frontend Engineer • React Specialist • AI Interface Developer
+</h3>
+
+<p align="center">
+Building scalable web experiences, immersive AI interfaces, and modern frontend architectures.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=21ironman&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=21ironman&theme=algolia&margin-w=15&margin-h=15&no-frame=true"/>
+  </a>
+</p>
+
+---
+
+# 💫 About Me
+
+💻 Frontend Engineer with **4+ years of experience** building scalable, performant, and accessible web applications.
+
+🚀 Specialized in:
+- React.js
+- Next.js
+- TypeScript
+- AI-Powered Interfaces
+- Performance Optimization
+- Modern UI Architecture
+
+🏥 Currently working as a **Software Engineer at Televox**, building enterprise healthcare applications using React & Next.js.
+
+🧠 Passionate about futuristic UI systems, voice-first AI experiences, and immersive frontend engineering.
+
+---
+
+# 🚀 Current Featured Project
+
 # 🧠 Murali AI (Ethereal Sentient)
 
-A highly advanced, ultra-premium AI Voice Assistant built with React, Vite, and Google Gemini API. This project replaces standard chat interfaces with a living, breathing **Ethereal Liquid Aurora** UI and seamless native voice interactions.
+An ultra-premium AI Voice Assistant featuring a cinematic liquid aurora interface and immersive real-time voice interactions.
 
-🔗 **Live Demo:** [https://modern-portfolio-3zkg.vercel.app/](https://modern-portfolio-3zkg.vercel.app/)
+## ✨ Highlights
 
-## ✨ Features
+- 🌌 Ethereal Liquid Aurora UI
+- 🎙️ Native Voice Conversations
+- 🧠 Google Gemini AI Integration
+- 🌊 Sentient Orb Animation System
+- 🎧 Live Voice Wave Visualizer
+- 💬 Cinematic Subtitle Engine
+- ⚡ Blazing-fast React + Vite architecture
 
-- **Sentient Orb Visualizer:** A complex, CSS-animated core that morphs, breathes, and reacts to the AI's current state (Idle, Listening, Processing, Speaking).
-- **Aura Wave Voice Interface:** A dedicated voice-interaction mode. When speaking, the screen transitions to a massive audio visualizer with cinematic live subtitles.
-- **Cinematic Text Flow:** Chat messages use a borderless, floating glassmorphism design with dynamic 3D depth-of-field blurring for older messages.
-- **Google Gemini Engine:** Powered by `gemini-1.5-flash` for blazing-fast, highly intelligent conversational responses.
-- **Web Speech API Integration:** Native browser-based Speech-to-Text and Text-to-Speech interactions for a truly hands-free experience.
+## 🔗 Live Projects
 
-## 🛠️ Technology Stack
+### Main Demo
+https://modern-portfolio-3zkg.vercel.app/
 
-- **Frontend:** React (Vite), Vanilla CSS (Glassmorphism, Liquid Aurora Gradients)
-- **AI Backend:** Google Generative AI (Gemini)
-- **Voice Synthesis:** Web Speech API
-- **Icons:** Lucide React
-- **Hosting:** Vercel
+### Experimental Version
+https://modern-portfolio-gamma-green.vercel.app/
 
-## 🚀 Running Locally
+---
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/21Ironman/MK-Voice-Frontend-model.git
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Create a `.env` file in the root directory and add your Gemini API Key:
-   ```env
-   VITE_GEMINI_API_KEY="your_api_key_here"
-   ```
-4. Start the development server:
-   ```bash
-   npm run dev
-   ```
+# 🛠️ Tech Stack
 
-## 👨‍💻 Author
+<p align="center">
 
-**Murali Krishna**
-- GitHub: [@21ironman](https://github.com/21ironman)
-- LinkedIn: [Murali Krishna](https://www.linkedin.com)
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,python,mysql,docker,git,github,vite,tailwind,bootstrap,materialui,redux" />
+
+</p>
+
+---
+
+# 🧠 Core Expertise
+
+```yaml
+Frontend:
+  - React.js
+  - Next.js
+  - TypeScript
+  - JavaScript ES6+
+  - HTML5 / CSS3 / SCSS
+
+UI Engineering:
+  - Tailwind CSS
+  - Material UI
+  - Glassmorphism UI
+  - Responsive Design
+  - Animation Systems
+
+State Management:
+  - Redux Toolkit
+  - Context API
+  - React Hooks
+
+Backend & APIs:
+  - Node.js
+  - Express.js
+  - REST APIs
+  - Gemini AI APIs
+
+Dev Tools:
+  - Git
+  - GitHub Actions
+  - CI/CD
+  - Jest
+  - Lighthouse
+  - Chrome DevTools

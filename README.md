@@ -15,15 +15,17 @@
 
 <p align="center">
   <a href="https://github.com/21Ironman">
-    <img src="https://github-readme-stats.vercel.app/api?username=21Ironman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/21Ironman">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21Ironman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=21Ironman&theme=tokyonight" alt="GitHub Profile Details" width="98%" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=21Ironman&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="Contribution Graph" width="98%" />
+  <a href="https://github.com/21Ironman">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=21Ironman&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  </a>
+  <a href="https://github.com/21Ironman">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=21Ironman&theme=tokyonight" alt="Top Languages" width="48%" />
+  </a>
 </p>
 
 ---
@@ -63,14 +65,31 @@ My frontend expertise revolves around the modern React ecosystem, focusing on 60
 
 ### 📁 Notable Projects
 
-<p align="center">
-  <a href="https://github.com/21Ironman/Multi-domain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Ironman&repo=Multi-domain&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Multi-domain Dashboard" width="48%" />
-  </a>
-  <a href="https://github.com/21Ironman/modern-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=21Ironman&repo=modern-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Modern Portfolio" width="48%" />
-  </a>
-</p>
+Since dynamic repository cards are currently rate-limited globally, here are direct links to my live premium projects:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>🌐 Multi-domain Dashboard</b></td>
+      <td align="center"><b>🎨 Modern Portfolio</b></td>
+      <td align="center"><b>🤖 Murali AI</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        A premium SaaS command center with 60fps animations.<br><br>
+        <a href="https://multi-domain-six.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/View_Live_App-0D1117?style=for-the-badge&logo=vercel" alt="View Live" /></a>
+      </td>
+      <td align="center">
+        High-performance developer portfolio.<br><br>
+        <a href="https://modern-portfolio-gamma-green.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/View_Live_App-0D1117?style=for-the-badge&logo=vercel" alt="View Live" /></a>
+      </td>
+      <td align="center">
+        AI-powered interactive assistant.<br><br>
+        <a href="https://modern-portfolio-3zkg.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/View_Live_App-0D1117?style=for-the-badge&logo=vercel" alt="View Live" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
